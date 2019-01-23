@@ -1,0 +1,21 @@
+/*
+Ian Goheen
+2019/01/23
+Hack 2.0
+Due 1/25
+*/
+
+#include <stdio.h>
+
+int main(int argc, char* argv[]) {
+
+double latADeg; // input degrees in range from [-90 , 90]
+double latBDeg;
+double longADeg; // input degrees in range from [-180 , 180]
+double longBDeg;
+const int EARTH_RADIUS = 6371; // average Earth Radius in kilometers
+
+	latARad = latADeg * PI
+
+	return 0;
+}
